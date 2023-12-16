@@ -1,0 +1,3 @@
+import keterangan
+
+keterangan.hallo()
